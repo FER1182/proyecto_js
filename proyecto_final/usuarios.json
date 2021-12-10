@@ -1,0 +1,41 @@
+[
+  {
+    "nombre": "fernando",
+    "apellido": "rudnevich",
+    "dni": "29950648",
+    "mail": "ferni232@gmail.com",
+    "pass": "123465678"
+  },
+  
+  {
+    "nombre": "Betiana",
+    "apellido": "Turteltaub",
+    "dni": "29885632",
+    "mail": "betiana@gmail.com",
+    "pass": "123465678"
+  },
+
+  {
+    "nombre": "juan",
+    "apellido": "perez",
+    "dni": "29442958",
+    "mail": "juanp@gmail.com",
+    "pass": "123465678"
+  },
+
+  {
+    "nombre": "andres",
+    "apellido": "roman",
+    "dni": "27954321",
+    "mail": "andres_r@gmail.com",
+    "pass": "123465678"
+  },
+
+  {
+    "nombre": "Marta",
+    "apellido": "raveren",
+    "dni": "20654233",
+    "mail": "martitarav@gmail.com",
+    "pass": "123465678"
+  }
+]	

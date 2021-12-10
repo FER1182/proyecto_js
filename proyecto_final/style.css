@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#codigo{
+    color:red;
+    font-size: 20px;
+}
+.card{
+    width: 15rem;
+    margin-bottom: 5px;
+}
+.card-img-top{
+    height: 20rem;
+}
+
+ .table-wrapper {
+    max-height: 430px;
+    overflow: auto;
+    display:inline-block;
+  }
+
+#tabla-fija {
+    position: fixed;
+    min-height: 120px;
+    width: 350px;
+    text-align: center;
+    word-wrap: break-word;
+    background-color: lightblue;
+  
+}
+ .producto-agregado{
+    text-align: center;
+    font-size: 20px;
+    position: fixed;
+    left: 900px;
+    top: 50px;
+    z-index: 3;
+}
